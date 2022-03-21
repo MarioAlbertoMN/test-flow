@@ -2,8 +2,8 @@
 
 ## A simple github flow
 
-- Elements 1
-- Elements 2
-- Elements 3
-- Elements 4
+[x] Elements 1
+[x] Elements 2
+[x] Elements 3
+
 
